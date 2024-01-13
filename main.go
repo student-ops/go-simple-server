@@ -2,20 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
-
-	"github.com/FarStep131/go-simple-server/server"
-)
-
-const (
-	host = "0.0.0.0"
-	port = "8080"
-)
-
-package main
-
-import (
-	"fmt"
 	"net/http"
 )
 
